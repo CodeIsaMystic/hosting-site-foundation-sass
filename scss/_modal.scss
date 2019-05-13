@@ -1,0 +1,29 @@
+/*  Modal  */
+.modal-container {
+  width: 600px;
+  height: 300px;
+  border-radius: 10px;
+  background: $white;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+
+
+  h1 {
+    padding-left: 15px;
+  }
+}
+
+.remember {
+  margin-right: 10px;
+  padding-top: 5px;
+}
+
+.switch-paddle,
+.button-modal {
+  border-radius: 5px;
+}
+
+.button-submit {
+  width: 100%;
+}

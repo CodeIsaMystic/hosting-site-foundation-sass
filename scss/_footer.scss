@@ -1,0 +1,38 @@
+/*  Footer  */
+footer {
+  height: 220px;
+  padding: 15px 0;
+
+
+  .cell-footer {
+    margin-top: 25px;
+
+    .footer-title {
+      font-size: 2rem;
+    }
+
+    .menu-vert a {
+      line-height: 30px;
+      padding: 0;
+      margin: 0;
+    }
+
+  }
+
+  .cell-copyright {
+
+    p {
+      line-height: 20px;
+      font-style: 1rem;
+      margin-bottom: 0;
+    }
+
+    .p-text {
+      padding-top: 10px;
+    }
+  }
+
+  .cell-truste {
+    padding-top: 80px;
+  }
+}
